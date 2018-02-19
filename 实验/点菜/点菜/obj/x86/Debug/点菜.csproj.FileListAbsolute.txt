@@ -1,0 +1,8 @@
+E:\ShowLu\C#文件\点菜\点菜\bin\Debug\点菜.exe
+E:\ShowLu\C#文件\点菜\点菜\bin\Debug\点菜.pdb
+E:\ShowLu\C#文件\点菜\点菜\obj\x86\Debug\点菜.Form1.resources
+E:\ShowLu\C#文件\点菜\点菜\obj\x86\Debug\点菜.Properties.Resources.resources
+E:\ShowLu\C#文件\点菜\点菜\obj\x86\Debug\点菜.csproj.GenerateResource.Cache
+E:\ShowLu\C#文件\点菜\点菜\obj\x86\Debug\点菜.exe
+E:\ShowLu\C#文件\点菜\点菜\obj\x86\Debug\点菜.pdb
+E:\ShowLu\C#文件\点菜\点菜\obj\x86\Debug\点菜.csprojResolveAssemblyReference.cache

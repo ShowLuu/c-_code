@@ -1,0 +1,7 @@
+E:\ShowLu\C#文件\排块游戏\排块游戏\bin\Debug\排块游戏.exe
+E:\ShowLu\C#文件\排块游戏\排块游戏\bin\Debug\排块游戏.pdb
+E:\ShowLu\C#文件\排块游戏\排块游戏\obj\x86\Debug\排块游戏.Form1.resources
+E:\ShowLu\C#文件\排块游戏\排块游戏\obj\x86\Debug\排块游戏.Properties.Resources.resources
+E:\ShowLu\C#文件\排块游戏\排块游戏\obj\x86\Debug\排块游戏.csproj.GenerateResource.Cache
+E:\ShowLu\C#文件\排块游戏\排块游戏\obj\x86\Debug\排块游戏.exe
+E:\ShowLu\C#文件\排块游戏\排块游戏\obj\x86\Debug\排块游戏.pdb

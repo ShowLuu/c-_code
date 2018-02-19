@@ -1,0 +1,7 @@
+E:\ShowLu\C#文件\算数练习器\算数练习器\bin\Debug\算数练习器.exe
+E:\ShowLu\C#文件\算数练习器\算数练习器\bin\Debug\算数练习器.pdb
+E:\ShowLu\C#文件\算数练习器\算数练习器\obj\x86\Debug\算数练习器.查找替换文字.resources
+E:\ShowLu\C#文件\算数练习器\算数练习器\obj\x86\Debug\算数练习器.Properties.Resources.resources
+E:\ShowLu\C#文件\算数练习器\算数练习器\obj\x86\Debug\算数练习器.csproj.GenerateResource.Cache
+E:\ShowLu\C#文件\算数练习器\算数练习器\obj\x86\Debug\算数练习器.exe
+E:\ShowLu\C#文件\算数练习器\算数练习器\obj\x86\Debug\算数练习器.pdb

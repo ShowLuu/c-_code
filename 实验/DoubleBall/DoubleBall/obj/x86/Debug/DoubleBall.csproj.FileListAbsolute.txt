@@ -1,0 +1,7 @@
+C:\Users\ShowLu\Desktop\DoubleBall\DoubleBall\bin\Debug\DoubleBall.exe
+C:\Users\ShowLu\Desktop\DoubleBall\DoubleBall\bin\Debug\DoubleBall.pdb
+C:\Users\ShowLu\Desktop\DoubleBall\DoubleBall\obj\x86\Debug\DoubleBall.Form1.resources
+C:\Users\ShowLu\Desktop\DoubleBall\DoubleBall\obj\x86\Debug\DoubleBall.Properties.Resources.resources
+C:\Users\ShowLu\Desktop\DoubleBall\DoubleBall\obj\x86\Debug\DoubleBall.csproj.GenerateResource.Cache
+C:\Users\ShowLu\Desktop\DoubleBall\DoubleBall\obj\x86\Debug\DoubleBall.exe
+C:\Users\ShowLu\Desktop\DoubleBall\DoubleBall\obj\x86\Debug\DoubleBall.pdb

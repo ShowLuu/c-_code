@@ -1,0 +1,7 @@
+E:\ShowLu\C#文件\简易记事本\简易记事本\obj\x86\Debug\简易记事本.Form1.resources
+E:\ShowLu\C#文件\简易记事本\简易记事本\obj\x86\Debug\简易记事本.Properties.Resources.resources
+E:\ShowLu\C#文件\简易记事本\简易记事本\obj\x86\Debug\简易记事本.csproj.GenerateResource.Cache
+E:\ShowLu\C#文件\简易记事本\简易记事本\bin\Debug\简易记事本.exe
+E:\ShowLu\C#文件\简易记事本\简易记事本\bin\Debug\简易记事本.pdb
+E:\ShowLu\C#文件\简易记事本\简易记事本\obj\x86\Debug\简易记事本.exe
+E:\ShowLu\C#文件\简易记事本\简易记事本\obj\x86\Debug\简易记事本.pdb

@@ -1,0 +1,7 @@
+E:\ShowLu\C#文件\百钱买百鸡\百钱买百鸡\bin\Debug\百钱买百鸡.exe
+E:\ShowLu\C#文件\百钱买百鸡\百钱买百鸡\bin\Debug\百钱买百鸡.pdb
+E:\ShowLu\C#文件\百钱买百鸡\百钱买百鸡\obj\x86\Debug\百钱买百鸡.Form1.resources
+E:\ShowLu\C#文件\百钱买百鸡\百钱买百鸡\obj\x86\Debug\百钱买百鸡.Properties.Resources.resources
+E:\ShowLu\C#文件\百钱买百鸡\百钱买百鸡\obj\x86\Debug\百钱买百鸡.csproj.GenerateResource.Cache
+E:\ShowLu\C#文件\百钱买百鸡\百钱买百鸡\obj\x86\Debug\百钱买百鸡.exe
+E:\ShowLu\C#文件\百钱买百鸡\百钱买百鸡\obj\x86\Debug\百钱买百鸡.pdb

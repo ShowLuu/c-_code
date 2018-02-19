@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "猴子吃桃", "猴子吃桃\猴子吃桃.csproj", "{514C39CC-96C2-47B9-991C-D200F465C1FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{514C39CC-96C2-47B9-991C-D200F465C1FE}.Debug|x86.ActiveCfg = Debug|x86
+		{514C39CC-96C2-47B9-991C-D200F465C1FE}.Debug|x86.Build.0 = Debug|x86
+		{514C39CC-96C2-47B9-991C-D200F465C1FE}.Release|x86.ActiveCfg = Release|x86
+		{514C39CC-96C2-47B9-991C-D200F465C1FE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
